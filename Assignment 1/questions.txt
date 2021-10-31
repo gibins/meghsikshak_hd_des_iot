@@ -1,0 +1,23 @@
+Week 1 – Assignments
+
+1.Familiarize yourselves with Eagle–Refer Eagle Tutorial & PCB Basics Document for more  
+information
+
+2.Practice Eagle 
+
+•Create the AC-DC Power Supply (5V) as explained in the video
+•Create a regulated 4A adjustable circuit as described in the datasheet of LM317
+•Page 16, Fig 22–Download @ https://www.ti.com/lit/ds/symlink/lm317.pdf
+
+3.Follow the following link for a good understanding on Eagle Libraries
+•https://www.jaredwolff.com/how-to-manage-your-eagle-libraries/
+
+4.Create your own libraries as we have discussed for the 2 components
+
+•BC-547: NPN Transistor – Straight and Bent Leads
+•Mega8L – TQFP Package
+
+5.Refer to the respective datasheets and
+
+•Add the symbol and package details for PNP transistors into the same BC547 Library
+•Add the PDIP and QFN Packages to the Mega8L Librar
